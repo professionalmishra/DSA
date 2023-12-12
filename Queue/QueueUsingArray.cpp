@@ -1,5 +1,5 @@
 // Implementation of Queue using Array FIFO/LILO
-// Code of DarkImpact1
+
 #include<iostream>
 using namespace std;
 #define size 10
